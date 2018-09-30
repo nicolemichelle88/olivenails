@@ -1,0 +1,94 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+body {
+    /* background-color: #e8e7df; */
+    background-image: url("img/marble.jpg");
+    background-size: cover;
+}
+.front-info {
+  margin-top: 10vh;
+
+}
+
+h1{
+  padding-top: 1vh;
+  color: #42420f;
+  margin-bottom: 4vh;
+}
+
+.opener{
+  font-size: 1.10em;
+  background-image: url("img/sand.jpg");
+  background-size: cover;
+  padding: 0 5vw 0 5vw;
+  color: black;
+  margin: 3vh 0vw 5vh 3vw;
+  height: 102.5vh;
+}
+
+.divider {
+  width: 20vw;
+  margin: 2vh 0 2vh 2vw;
+}
+.coupon {
+  margin: 5vh 0 0 2vw;
+  padding: 10px;
+  border-color: #6E6E19;
+}
+.coupon:hover {
+  cursor: pointer;
+  background-color: #6E6E19;
+}
+
+img {
+  width: 35vw;
+  margin: 3vh 0vw 2vh 0vw;
+}
+
+.intro-box {
+  margin-top: 5vh;
+}
+
+
+.homepage-info {
+  background-color: #4c4c4c;
+  height: 120vh;
+}
+
+hr {
+  background-color: #42420f;
+}
+
+h2, h3{
+
+  color: #42420f;
+}
+.giveaways {
+  margin-top: 10vh;
+  height: 150vh;
+}
+.winner {
+  width: 17vw;
+}
+
+.winner-container {
+  height: 40vh;
+  overflow: hidden;
+}
+/* coupon page stylings */
+.coupon-page {
+  margin-top: 10vh;
+}
+
+
+/* contact form stylings */
+.contact-form {
+  margin-top: 10vh;
+  width: 70vw;
+}
+
+.form-field {
+  width: 25vw;
+  margin-bottom: 2vh;
+}
